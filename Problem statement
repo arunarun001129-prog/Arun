@@ -1,0 +1,33 @@
+DURATION: 4 HOURS
+
+DEVELOP SOFTWARE USING ARTIFICIAL INTELLIGENCE (AI) TOOLS/AI Agents FOR THE FOLLOWING USE STORY
+
+User Story
+
+Smart Customer Segmentation Platform
+
+As a branch operations manager at a bank, I want a simple customer segmentation tool that helps me classify customers into Platinum, Gold, and silver tiers based on their account value and transaction behaviour, so that I can prioritize relationship management and offer tailored services without needing advanced analytics.
+
+Objective
+
+To develop a basic software module that enables banking teams to segment customers using a simple value-based analysis and manage them accordingly.
+
+Customer Segmentation Logic
+
+Platinum Customers: High-value accounts with frequent transactions - require personalized service and priority support.
+
+Gold Customers: Moderate account value and activity managed with regular engagement.
+
+Silver Customers: Low-value accounts with minimal activity managed with standard services.
+
+Key Features
+
+Login Screen: "Administrator" to set rules, "Branch Manager" to see Dashboard and export data
+
+Rule Engine: Configure rules for classifying customers into Platinum/Gold/Silver tiers.
+
+Automatic Classification: System assigns tier based on defined rules.
+
+Dashboard: Displays segmented customers, their profiles, financials with filters and summary totals.
+
+Export Option: Download customer segmentation data as CSV or PDF for offline use.
