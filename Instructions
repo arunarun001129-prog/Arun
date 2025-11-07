@@ -1,0 +1,37 @@
+Deliverables
+
+Deliverables are expected to be of production level quality, ensuring excellence in both content and look & feet
+
+1. Functional requirements document
+
+2. Application Architecture and Architecture document
+
+3. Database design/Data Models-No JSON input of data, use any RDBMS, deliverables include logical model, physical model and ER diagram
+
+4U/Ux/Wireframe Design
+
+5. Software code & Working Software
+
+6 Functional Test scripts in a CSV or Excel
+
+7. Traceability Matrix in CSV or Excel
+
+8. End User manual - Screens and help guide
+
+Al Agent-"Code Quality Checker" built with an Al framework and Streamlit or Gradio, takes code and checklist as input and provide observations against each checklist item and suggestions for improvements if any
+
+Instructions
+
+Use Al tools or Build Your Own Al Agents (BYOAA) to develop the software and deliverables.
+
+Selection of Tools: Carefully evaluate and select the most suitable Al tools or frameworks for each phase of the project. If building custom Al agents, ensure they are scalable, maintainable. Additional weightage will be given if team builds their own Al agent to create the deliverables.
+
+Quality Standards: Adhere strictly to coding standards and best practices for software development. Apply consistent design patterns, code reviews, and automated testing to maintain high quality.
+
+architecture. Integration: Ensure seamless integration of components with the overall application
+
+Testing: Prepare comprehensive test cases, including both functional and non-functional scenarios.
+
+Documentation: Maintain clear and detailed documentation for all deliverables, including architecture diagrams, data models, and user manuals. Update documents regularly as changes are made.
+
+User Experience: Prioritise a user-centric approach in UI/UX design. Avoid using Streamlit or Gradio for the user interface
